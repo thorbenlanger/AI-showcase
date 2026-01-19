@@ -8,6 +8,20 @@ data quality issues can be **measured, explained, and communicated** in a way
 that is useful for both engineers and stakeholders.
 
 ---
+## Why "AI" in AI Data Quality Copilot?
+
+This project follows an **applied AI** approach.
+
+Rather than training machine learning models, it focuses on:
+- automated reasoning over data quality signals
+- heuristic and rule-based evaluation
+- explainable scoring and prioritization
+- decision support instead of autonomous decisions
+
+This reflects how AI is commonly applied in
+data governance, quality management, and risk systems,
+where transparency and explainability are critical.
+---
 
 ## Key Features
 
