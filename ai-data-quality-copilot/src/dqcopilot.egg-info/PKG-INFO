@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: dqcopilot
+Version: 0.1.0
+Summary: AI Data Quality Copilot showcase
+Requires-Python: >=3.10
+Requires-Dist: pandas>=2.0
+Requires-Dist: numpy>=1.24
+Requires-Dist: jinja2>=3.1
+Requires-Dist: rich>=13.0
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0; extra == "dev"

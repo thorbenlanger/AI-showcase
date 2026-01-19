@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/dqcopilot/__init__.py
+src/dqcopilot/cli.py
+src/dqcopilot/profiling.py
+src/dqcopilot/report.py
+src/dqcopilot/rules.py
+src/dqcopilot/score.py
+src/dqcopilot.egg-info/PKG-INFO
+src/dqcopilot.egg-info/SOURCES.txt
+src/dqcopilot.egg-info/dependency_links.txt
+src/dqcopilot.egg-info/entry_points.txt
+src/dqcopilot.egg-info/requires.txt
+src/dqcopilot.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+dqcopilot = dqcopilot.cli:main
